@@ -1,0 +1,11 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.BLL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.BLL.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.DALFactory.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.IDAL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.Model.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.DALFactory.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.IDAL.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\bin\Debug\TygaSoft.Model.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\obj\Debug\TygaSoft.BLL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\BLL\obj\Debug\TygaSoft.BLL.pdb

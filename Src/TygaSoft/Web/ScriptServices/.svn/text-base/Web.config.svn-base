@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+  <location path="AdminService.asmx">
+    <system.web>
+      <authorization>
+        <allow roles="Administrators,System"/>
+        <deny users="*"/>
+      </authorization>
+    </system.web>
+  </location>
+</configuration>

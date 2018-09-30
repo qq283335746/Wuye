@@ -1,0 +1,5 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\DBUtility\bin\Debug\TygaSoft.DBUtility.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\DBUtility\bin\Debug\TygaSoft.DBUtility.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\DBUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\DBUtility\obj\Debug\TygaSoft.DBUtility.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\DBUtility\obj\Debug\TygaSoft.DBUtility.pdb

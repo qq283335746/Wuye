@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/843/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin
+END
+HandlerPropertyCompany.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerPropertyCompany.ashx.cs
+END
+HandlerContentType.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerContentType.ashx.cs
+END
+Web.config
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/Web.config
+END
+HandlerResidentialBuilding.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerResidentialBuilding.ashx
+END
+HandlerHouse.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerHouse.ashx
+END
+HandlerUpload.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerUpload.ashx
+END
+HandlerResidentialBuilding.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerResidentialBuilding.ashx.cs
+END
+HandlerHouse.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerHouse.ashx.cs
+END
+HandlerUpload.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/843/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerUpload.ashx.cs
+END
+HandlerAnnouncement.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerAnnouncement.ashx
+END
+HandlerKindeditor.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerKindeditor.ashx
+END
+HandlerAnnouncement.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/526/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerAnnouncement.ashx.cs
+END
+HandlerHouseOwner.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerHouseOwner.ashx
+END
+HandlerKindeditor.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/2023/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerKindeditor.ashx.cs
+END
+HandlerHouseOwner.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerHouseOwner.ashx.cs
+END
+HandlerResidentialUnit.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerResidentialUnit.ashx
+END
+HandlerSysEnum.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerSysEnum.ashx
+END
+HandlerResidenceCommunity.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerResidenceCommunity.ashx
+END
+HandlerContentPicture.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerContentPicture.ashx
+END
+HandlerResidentialUnit.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerResidentialUnit.ashx.cs
+END
+HandlerSysEnum.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerSysEnum.ashx.cs
+END
+HandlerResidenceCommunity.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerResidenceCommunity.ashx.cs
+END
+HandlerContentPicture.ashx.cs
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerContentPicture.ashx.cs
+END
+HandlerPropertyCompany.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerPropertyCompany.ashx
+END
+HandlerContentType.ashx
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Web/Handlers/Admin/HandlerContentType.ashx
+END

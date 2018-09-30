@@ -1,0 +1,7 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\bin\Debug\TygaSoft.CacheDependencyFactory.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\bin\Debug\TygaSoft.CacheDependencyFactory.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\bin\Debug\TygaSoft.ICacheDependency.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\bin\Debug\TygaSoft.ICacheDependency.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\obj\Debug\TygaSoft.CacheDependencyFactory.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CacheDependencyFactory\obj\Debug\TygaSoft.CacheDependencyFactory.pdb

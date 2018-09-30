@@ -1,0 +1,35 @@
+﻿<div class="row_col w110 mb10" style="width:400px;">
+    <table style="width:100%;">
+        <tr>
+            <td rowspan="4" style="width:130px; vertical-align:top;">
+                <img src="{0}" alt="" width="110px" height="110px" /><input type="hidden" name="PicId" value="{1}" />
+            </td>
+            <td style="width:70px;">
+                作用类型：  
+            </td>
+            <td>
+                <select name="ddlActionTypeId"></select>
+                <input type="hidden" name="ActionTypeId" value="{2}" />
+            </td>
+        </tr>
+        <tr style="display:none;">
+            <td>Url：</td>
+            <td>
+                <input type="text" name="Url" value="{3}" style="width:188px;" />
+            </td>
+        </tr>
+        <tr>
+            <td>排序：</td>
+            <td>
+                <input type="text" name="Sort" value="{4}" style="width:80px;" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <a href="javascript:void(0)" class="easyui-linkbutton" data-options="iconCls:'icon-remove',plain:true" onclick="$(this).parents('.row_col').remove()">删 除</a>
+                <input type="checkbox" name="IsDisable" value="{5}" /> 不显示
+            </td>
+        </tr>
+    </table>
+	<input type="hidden" name="AdLinkId" value="{6}" />
+</div>

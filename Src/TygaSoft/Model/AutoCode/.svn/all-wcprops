@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode
+END
+HouseOwnerNoticeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/HouseOwnerNoticeInfo.cs
+END
+RoleInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/RoleInfo.cs
+END
+ResidentialUnitInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ResidentialUnitInfo.cs
+END
+SysEnumInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/SysEnumInfo.cs
+END
+ComplainRepairInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ComplainRepairInfo.cs
+END
+ResidenceCommunityInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ResidenceCommunityInfo.cs
+END
+ContentPictureInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ContentPictureInfo.cs
+END
+PictureAdvertisementInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/PictureAdvertisementInfo.cs
+END
+AdvertisementInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/AdvertisementInfo.cs
+END
+PropertyCompanyInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/PropertyCompanyInfo.cs
+END
+ContentTypeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ContentTypeInfo.cs
+END
+UserInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/UserInfo.cs
+END
+ProvinceCityInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ProvinceCityInfo.cs
+END
+ResidentialBuildingInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ResidentialBuildingInfo.cs
+END
+NoticeInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/NoticeInfo.cs
+END
+HouseInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/HouseInfo.cs
+END
+AdvertisementLinkInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/AdvertisementLinkInfo.cs
+END
+ResResultInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ResResultInfo.cs
+END
+AdvertisementItemInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/AdvertisementItemInfo.cs
+END
+AnnouncementInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/AnnouncementInfo.cs
+END
+ContentDetailInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/ContentDetailInfo.cs
+END
+UserHouseOwnerInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/UserHouseOwnerInfo.cs
+END
+HouseOwnerInfo.cs
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/Model/AutoCode/HouseOwnerInfo.cs
+END

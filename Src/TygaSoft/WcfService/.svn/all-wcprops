@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/887/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService
+END
+IResidentialUnit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IResidentialUnit.cs
+END
+IWebSecurity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/843/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IWebSecurity.cs
+END
+IResidenceCommunity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IResidenceCommunity.cs
+END
+IPropertyCompany.cs
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IPropertyCompany.cs
+END
+ResidentialUnitService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/ResidentialUnitService.cs
+END
+WebSecurityService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/843/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/WebSecurityService.cs
+END
+ResidenceCommunityService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/ResidenceCommunityService.cs
+END
+IProvinceCity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IProvinceCity.cs
+END
+IResidentialBuilding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IResidentialBuilding.cs
+END
+WcfService.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/848/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/WcfService.csproj
+END
+PropertyCompanyService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/PropertyCompanyService.cs
+END
+IHouse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/IHouse.cs
+END
+ICollectLife.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/843/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/ICollectLife.cs
+END
+ProvinceCityService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/ProvinceCityService.cs
+END
+CollectLifeSecurityServiceProxy.cs
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/CollectLifeSecurityServiceProxy.cs
+END
+ResidentialBuildingService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/ResidentialBuildingService.cs
+END
+HouseService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/HouseService.cs
+END
+CollectLifeService.cs
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/887/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/CollectLifeService.cs
+END
+WcfService.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/WcfService/WcfService.csproj.user
+END

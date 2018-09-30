@@ -1,0 +1,16 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.ProcessorWS.exe.config
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.ProcessorWS.exe
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.ProcessorWS.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.BLL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.Model.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.ThreadProcessor.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.IDAL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.DALFactory.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.BLL.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.Model.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.ThreadProcessor.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.IDAL.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\bin\Debug\TygaSoft.DALFactory.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\obj\x86\Debug\TygaSoft.ProcessorWS.exe
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ProcessorWS\obj\x86\Debug\TygaSoft.ProcessorWS.pdb

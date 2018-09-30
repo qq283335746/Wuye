@@ -1,0 +1,5 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SysHelper\bin\Debug\TygaSoft.SysHelper.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SysHelper\bin\Debug\TygaSoft.SysHelper.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SysHelper\obj\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SysHelper\obj\Debug\TygaSoft.SysHelper.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SysHelper\obj\Debug\TygaSoft.SysHelper.pdb

@@ -1,0 +1,11 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.SqlServerDAL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.SqlServerDAL.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.DBUtility.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.IDAL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.Model.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.DBUtility.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.IDAL.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\bin\Debug\TygaSoft.Model.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\obj\Debug\TygaSoft.SqlServerDAL.dll
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\SqlServerDAL\obj\Debug\TygaSoft.SqlServerDAL.pdb

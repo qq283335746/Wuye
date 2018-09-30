@@ -1,0 +1,6 @@
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\WcfClient\bin\Debug\TygaSoft.WcfClient.exe.config
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\WcfClient\bin\Debug\TygaSoft.WcfClient.exe
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\WcfClient\bin\Debug\TygaSoft.WcfClient.pdb
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\WcfClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\WcfClient\obj\x86\Debug\TygaSoft.WcfClient.exe
+C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\WcfClient\obj\x86\Debug\TygaSoft.WcfClient.pdb

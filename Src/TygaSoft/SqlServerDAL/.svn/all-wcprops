@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/527/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL
+END
+MyComplainRepair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyComplainRepair.cs
+END
+MyResidenceCommunity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyResidenceCommunity.cs
+END
+MyPictureAdvertisement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyPictureAdvertisement.cs
+END
+SqlServerDAL.csproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/SqlServerDAL.csproj.user
+END
+MyAdvertisement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/526/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyAdvertisement.cs
+END
+MyContentType.cs
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyContentType.cs
+END
+MyProvinceCity.cs
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyProvinceCity.cs
+END
+MyNotice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyNotice.cs
+END
+MyResidentialBuilding.cs
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyResidentialBuilding.cs
+END
+MyHouse.cs
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyHouse.cs
+END
+MyAdvertisementLink.cs
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/527/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyAdvertisementLink.cs
+END
+MyAnnouncement.cs
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyAnnouncement.cs
+END
+SqlServerDAL.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/524/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/SqlServerDAL.csproj
+END
+MyUserHouseOwner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyUserHouseOwner.cs
+END
+MyHouseOwner.cs
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyHouseOwner.cs
+END
+MyHouseOwnerNotice.cs
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyHouseOwnerNotice.cs
+END
+MyResidentialUnit.cs
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/!svn/ver/128/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft/SqlServerDAL/MyResidentialUnit.cs
+END

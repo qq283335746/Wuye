@@ -1,0 +1,193 @@
+10
+
+dir
+2017
+http://115.28.5.84:8099/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6/%E6%B1%87%E7%94%9F%E6%B4%BB%E7%89%A9%E4%B8%9A/trunk/%E6%BA%90%E7%A0%81/TygaSoft
+http://115.28.5.84:8099/svn/%E5%A4%A9%E6%B6%AF%E5%AD%A4%E5%B2%B8%E8%BD%AF%E4%BB%B6
+
+
+
+2016-08-04T08:31:26.246236Z
+1352
+283335746
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eeecd8e6-aa2a-e146-8018-c4464320432e
+
+WcfCA
+dir
+
+ProcessorCA
+dir
+
+CustomProvider
+dir
+
+DALFactory
+dir
+
+ProcessorWS
+dir
+
+CacheDependencyFactory
+dir
+
+TygaSoft.sln
+file
+
+
+
+
+2018-09-27T06:15:01.421875Z
+e4ff67656511bb3fd09be98beb561d5a
+2015-12-11T16:24:19.972619Z
+854
+283335746
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23153
+
+WcfService
+dir
+
+Model
+dir
+
+TygaSoft.suo
+file
+
+
+
+
+2018-09-27T06:15:01.468750Z
+c217d37964f42eb6a95913fcccada59f
+2015-06-16T13:44:28.300262Z
+128
+tyga
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+852992
+
+ThreadProcessor
+dir
+
+SqlServerDAL
+dir
+
+IDAL
+dir
+
+DBUtility
+dir
+
+BLL
+dir
+
+TableCacheDependency
+dir
+
+ICacheDependency
+dir
+
+TygaSoft-2010.sln
+file
+2019
+
+
+
+2018-09-27T07:01:51.781250Z
+e3a076d2cc4bf749a07c56c677a427c1
+2018-09-27T07:10:00.385629Z
+2019
+283335746
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23950
+
+Libraries
+dir
+
+CustomExceptions
+dir
+
+WebHelper
+dir
+
+Web
+dir
+
+WcfClient
+dir
+
+SysHelper
+dir
+
