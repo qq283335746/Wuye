@@ -1,7 +1,0 @@
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\bin\Debug\TygaSoft.TableCacheDependency.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\bin\Debug\TygaSoft.TableCacheDependency.pdb
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\bin\Debug\TygaSoft.ICacheDependency.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\bin\Debug\TygaSoft.ICacheDependency.pdb
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\obj\Debug\ResolveAssemblyReference.cache
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\obj\Debug\TygaSoft.TableCacheDependency.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\TableCacheDependency\obj\Debug\TygaSoft.TableCacheDependency.pdb

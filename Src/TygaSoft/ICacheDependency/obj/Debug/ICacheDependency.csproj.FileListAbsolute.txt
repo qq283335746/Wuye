@@ -1,5 +1,0 @@
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ICacheDependency\bin\Debug\TygaSoft.ICacheDependency.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ICacheDependency\bin\Debug\TygaSoft.ICacheDependency.pdb
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ICacheDependency\obj\Debug\ResolveAssemblyReference.cache
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ICacheDependency\obj\Debug\TygaSoft.ICacheDependency.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\ICacheDependency\obj\Debug\TygaSoft.ICacheDependency.pdb

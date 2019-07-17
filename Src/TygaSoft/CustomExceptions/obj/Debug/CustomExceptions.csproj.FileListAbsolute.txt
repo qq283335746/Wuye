@@ -1,5 +1,0 @@
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomExceptions\bin\Debug\TygaSoft.CustomExceptions.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomExceptions\bin\Debug\TygaSoft.CustomExceptions.pdb
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomExceptions\obj\Debug\ResolveAssemblyReference.cache
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomExceptions\obj\Debug\TygaSoft.CustomExceptions.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomExceptions\obj\Debug\TygaSoft.CustomExceptions.pdb

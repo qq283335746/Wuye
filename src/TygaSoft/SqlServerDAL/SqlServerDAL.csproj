@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BEB620C8-0F06-4853-A137-B36C66EC67E7}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TygaSoft.SqlServerDAL</RootNamespace>
+    <AssemblyName>TygaSoft.SqlServerDAL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoCode\Advertisement.cs" />
+    <Compile Include="AutoCode\AdvertisementItem.cs" />
+    <Compile Include="AutoCode\AdvertisementLink.cs" />
+    <Compile Include="AutoCode\Announcement.cs" />
+    <Compile Include="AutoCode\ComplainRepair.cs" />
+    <Compile Include="AutoCode\ContentDetail.cs" />
+    <Compile Include="AutoCode\ContentPicture.cs" />
+    <Compile Include="AutoCode\ContentType.cs" />
+    <Compile Include="AutoCode\House.cs" />
+    <Compile Include="AutoCode\HouseOwner.cs" />
+    <Compile Include="AutoCode\HouseOwnerNotice.cs" />
+    <Compile Include="MyAdvertisement.cs" />
+    <Compile Include="MyAdvertisementLink.cs" />
+    <Compile Include="MyAnnouncement.cs" />
+    <Compile Include="MyComplainRepair.cs" />
+    <Compile Include="MyContentType.cs" />
+    <Compile Include="MyNotice.cs" />
+    <Compile Include="MyPictureAdvertisement.cs" />
+    <Compile Include="MyProvinceCity.cs" />
+    <Compile Include="MyResidenceCommunity.cs" />
+    <Compile Include="AutoCode\Notice.cs" />
+    <Compile Include="AutoCode\PictureAdvertisement.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AutoCode\PropertyCompany.cs" />
+    <Compile Include="AutoCode\ProvinceCity.cs" />
+    <Compile Include="AutoCode\ResidenceCommunity.cs" />
+    <Compile Include="AutoCode\ResidentialBuilding.cs" />
+    <Compile Include="AutoCode\ResidentialUnit.cs" />
+    <Compile Include="AutoCode\Role.cs" />
+    <Compile Include="AutoCode\SysEnum.cs" />
+    <Compile Include="AutoCode\UserHouseOwner.cs" />
+    <Compile Include="MyResidentialBuilding.cs" />
+    <Compile Include="MyResidentialUnit.cs" />
+    <Compile Include="MyHouse.cs" />
+    <Compile Include="MyHouseOwner.cs" />
+    <Compile Include="MyUserHouseOwner.cs" />
+    <Compile Include="MyHouseOwnerNotice.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBUtility\DBUtility.csproj">
+      <Project>{8B1064EA-EB21-4421-A791-AAEA2B47470D}</Project>
+      <Name>DBUtility %28DBUtility\DBUtility%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IDAL\IDAL.csproj">
+      <Project>{437A3E96-72E1-47C5-BBB1-9E5FC3BE7BC6}</Project>
+      <Name>IDAL %28IDAL\IDAL%29</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{387894B5-094E-47E0-833F-0F15248E14A5}</Project>
+      <Name>Model %28Model\Model%29</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,5 +1,0 @@
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomProvider\bin\Debug\TygaSoft.CustomProvider.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomProvider\bin\Debug\TygaSoft.CustomProvider.pdb
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomProvider\obj\Debug\ResolveAssemblyReference.cache
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomProvider\obj\Debug\TygaSoft.CustomProvider.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\CustomProvider\obj\Debug\TygaSoft.CustomProvider.pdb

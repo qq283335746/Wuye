@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<rewriteRules>
+  <if url="^(.*)/(\?.+)?$">
+    <rewrite exists="$1/Default.aspx" to="$1/Default.aspx$2" />
+  </if>
+  <rewrite url="^(.*)/login.html(.*)" to="~/Login.aspx$2" processing="stop" />
+  <rewrite url="^(.*)/register.html(.*)" to="~/Register.aspx$2" processing="stop" />
+
+  <if url="^(.*)/a/(.*)">
+    <rewrite url="^(.*)/a/t.html(.*)" to="~/Admin/Default.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/y.html(.*)" to="~/Admin/SysLogs/ListSysLogWeixin.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/g.html(.*)" to="~/Admin/Members/ListUsers.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/a.html(.*)" to="~/Admin/Members/AddUserRole.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ty.html(.*)" to="~/Admin/Members/AddUser.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tg.html(.*)" to="~/Admin/Members/ListRoles.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ta.html(.*)" to="~/Admin/Members/AddRoleUser.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/yt.html(.*)" to="~/Admin/Members/AddRole.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/yy.html(.*)" to="~/Admin/SysLogs/ListSysLogWeixin.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/yg.html(.*)" to="~/Admin/Members/UpdatePsw.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ya.html(.*)" to="~/Admin/Sys/ListSysEnum.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/gt.html(.*)" to="~/Admin/BasicData/ListPropertyCompany.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/gy.html(.*)" to="~/Admin/BasicData/AddPropertyCompany.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/gg.html(.*)" to="~/Admin/BasicData/ListProvinceCity.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ga.html(.*)" to="~/Admin/BasicData/ListResidenceCommunity.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/at.html(.*)" to="~/Admin/BasicData/ListResidentialBuilding.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ay.html(.*)" to="~/Admin/BasicData/ListResidentialUnit.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ag.html(.*)" to="~/Admin/BasicData/ListHouse.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/aa.html(.*)" to="~/Admin/BasicData/ListHouseOwner.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tgt.html(.*)" to="~/Admin/AboutSite/ListContentType.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ttt.html(.*)" to="~/Admin/AboutSite/ListAnnouncement.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tat.html(.*)" to="~/Admin/AboutSite/AddAnnouncement.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tyt.html(.*)" to="~/Admin/AboutSite/ListNotice.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tty.html(.*)" to="~/Admin/AboutSite/AddNotice.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tgy.html(.*)" to="~/Admin/AboutSite/ListAdvertisement.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tga.html(.*)" to="~/Admin/AboutSite/AddAdvertisement.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tay.html(.*)" to="~/Admin/AboutSite/ListContentPicture.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tpicture\.html(.*)" to="~/Admin/AboutSite/ListPictureAdvertisement.aspx$2" processing="stop" />
+    
+    <rewrite url="^(.*)/a/ttg.html(.*)" to="~/Admin/BasicData/AddResidenceCommunity.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tta.html(.*)" to="~/Admin/BasicData/AddResidentialBuilding.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ytt.html(.*)" to="~/Admin/BasicData/AddResidentialUnit.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/yty.html(.*)" to="~/Admin/BasicData/AddHouse.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ytg.html(.*)" to="~/Admin/BasicData/AddHouseOwner.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/yta.html(.*)" to="~/Admin/BasicData/ListHouseOwnerNotice.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/gta.html(.*)" to="~/Admin/BasicData/AddHouseOwnerNotice.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/ata.html(.*)" to="~/Admin/BasicData/ListUserHouseOwner.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tyy.html(.*)" to="~/Admin/Repair/ListPubilcComplainRepair.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tyg.html(.*)" to="~/Admin/Repair/ListHouseOwnerComplainRepair.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/a/tya.html\?(.*)" to="~/Admin/Repair/AddComplainRepair.aspx$2" processing="stop" />
+  </if>
+  <if url="^/m">
+    
+  </if>
+
+  <if url="^(.*)/t/(.*)">
+    <rewrite url="^(.*)/t/tpicture.html(.*)" to="~/Templates/Admin/DlgPictureSelect.aspx$2" processing="stop" />
+    <rewrite url="^(.*)/t/ypicture.html(.*)" to="~/Templates/Admin/DlgPictureUpload.aspx$2" processing="stop" />
+  </if>
+  <if url="^(.*)/h/(.*)">
+    <rewrite url="^(.*)/h/tupload.html(.*)" to="~/Handlers/Admin/HandlerUpload.ashx$2" processing="stop" />
+    <rewrite url="^(.*)/h/t.html(.*)" to="~/Handlers/Admin/HandlerHouseOwner.ashx$2" processing="stop" />
+  </if>
+
+</rewriteRules>

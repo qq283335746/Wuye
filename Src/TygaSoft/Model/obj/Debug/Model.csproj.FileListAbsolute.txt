@@ -1,5 +1,0 @@
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\Model\bin\Debug\TygaSoft.Model.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\Model\bin\Debug\TygaSoft.Model.pdb
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\Model\obj\Debug\ResolveAssemblyReference.cache
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\Model\obj\Debug\TygaSoft.Model.dll
-C:\MyCodeWorkspace\汇生活物业\源码\TygaSoft\Model\obj\Debug\TygaSoft.Model.pdb
