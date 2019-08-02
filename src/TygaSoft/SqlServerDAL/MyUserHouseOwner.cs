@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using TygaSoft.IDAL;
 using TygaSoft.Model;
 using TygaSoft.DBUtility;
+using TygaSoft.SysHelper;
 
 namespace TygaSoft.SqlServerDAL
 {
@@ -28,22 +29,22 @@ namespace TygaSoft.SqlServerDAL
 
         public List<HouseOwnerInfo> GetListByJoin(int pageIndex, int pageSize, out int totalRecords, string sqlWhere, params SqlParameter[] cmdParms)
         {
-            string cmdText = @"select count(*) from UserHouseOwner uho
+            string cmdText = string.Format(@"select count(*) from UserHouseOwner uho
                                join HouseOwner ho on ho.Id = uho.HouseOwnerId
-                               join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = uho.UserId
-                              ";
+                               join {0}aspnet_Users u on u.UserId = uho.UserId
+                              ", ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += " where 1=1 " + sqlWhere;
             totalRecords = (int)SqlHelper.ExecuteScalar(SqlHelper.SqlProviderConnString, CommandType.Text, cmdText, cmdParms);
 
             int startIndex = (pageIndex - 1) * pageSize + 1;
             int endIndex = pageIndex * pageSize;
 
-            cmdText = @"select * from(select row_number() over(order by ho.LastUpdatedDate desc) as RowNumber,
+            cmdText = string.Format(@"select * from(select row_number() over(order by ho.LastUpdatedDate desc) as RowNumber,
 			          ho.Id,ho.HouseOwnerName,ho.MobilePhone,ho.TelPhone
 					  from UserHouseOwner uho
                       join HouseOwner ho on ho.Id = uho.HouseOwnerId
-                      join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = uho.UserId
-                      ";
+                      join {0}aspnet_Users u on u.UserId = uho.UserId
+                      ", ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += "where 1=1 " + sqlWhere;
             cmdText += ")as objTable where RowNumber between " + startIndex + " and " + endIndex + " ";
 

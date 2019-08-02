@@ -91,6 +91,10 @@
       <Project>{387894B5-094E-47E0-833F-0F15248E14A5}</Project>
       <Name>Model %28Model\Model%29</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SysHelper\SysHelper.csproj">
+      <Project>{fd597c41-e62c-4c5f-aa64-e29174f7565b}</Project>
+      <Name>SysHelper</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 using TygaSoft.IDAL;
 using TygaSoft.Model;
 using TygaSoft.DBUtility;
-
+using TygaSoft.SysHelper;
 
 namespace TygaSoft.SqlServerDAL
 {
@@ -52,11 +52,11 @@ namespace TygaSoft.SqlServerDAL
 
         public IList<ComplainRepairInfo> GetListByJoin(int pageIndex, int pageSize, out int totalRecords, string sqlWhere, params SqlParameter[] cmdParms)
         {
-            string cmdText = @"select count(*) 
+            string cmdText = string.Format(@"select count(*) 
                                from ComplainRepair cr
-                               left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = cr.UserId 
+                               left join {0}aspnet_Users u on u.UserId = cr.UserId 
                                left join Sys_Enum se on se.Id = cr.SysEnumId 
-                             ";
+                             ", ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += " where 1=1 " + sqlWhere;
             totalRecords = (int)SqlHelper.ExecuteScalar(SqlHelper.SqlProviderConnString, CommandType.Text, cmdText, cmdParms);
 
@@ -65,13 +65,13 @@ namespace TygaSoft.SqlServerDAL
             int startIndex = (pageIndex - 1) * pageSize + 1;
             int endIndex = pageIndex * pageSize;
 
-            cmdText = @"select * from(select row_number() over(order by cr.LastUpdatedDate desc) as RowNumber,
+            cmdText = string.Format(@"select * from(select row_number() over(order by cr.LastUpdatedDate desc) as RowNumber,
 			          cr.Id,cr.UserId,cr.SysEnumId,cr.Phone,cr.Address,cr.Descri,cr.Status,cr.LastUpdatedDate,
                       se.EnumValue, u.UserName
 					  from ComplainRepair cr
-                      left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = cr.UserId 
+                      left join {0}aspnet_Users u on u.UserId = cr.UserId 
                       left join Sys_Enum se on se.Id = cr.SysEnumId 
-                      ";
+                      ", ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += "where 1=1 " + sqlWhere;
             cmdText += ")as objTable where RowNumber between " + startIndex + " and " + endIndex + " ";
 

@@ -37,7 +37,7 @@ var ProvinceCity = {
         });
     },
     Add: function () {
-        this.Url = "/ScriptServices/AdminService.asmx/SaveProvinceCity";
+        this.Url = "/House/ScriptServices/AdminService.asmx/SaveProvinceCity";
         var t = $("#treeCt");
         var node = t.tree('getSelected');
         if (!node) {
@@ -49,7 +49,7 @@ var ProvinceCity = {
         dlgFun.Add(node);
     },
     Edit: function () {
-        this.Url = "/ScriptServices/AdminService.asmx/SaveProvinceCity";
+        this.Url = "/House/ScriptServices/AdminService.asmx/SaveProvinceCity";
         var t = $("#treeCt");
         var node = t.tree('getSelected');
         if (!node) {

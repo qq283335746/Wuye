@@ -11,7 +11,7 @@ namespace TygaSoft.DBUtility
     public sealed class SqlHelper
     {
         //数据库连接字符串
-        public static readonly string TygaAspnetDbConnString = ConfigurationManager.ConnectionStrings["TygaAspnetDbConnString"].ConnectionString;
+        public static readonly string AspnetDbConnString = ConfigurationManager.ConnectionStrings["AspnetDbConnString"].ConnectionString;
         public static readonly string SqlProviderConnString = ConfigurationManager.ConnectionStrings["SqlProviderConnString"].ConnectionString;
 
         #region private utility methods & constructors

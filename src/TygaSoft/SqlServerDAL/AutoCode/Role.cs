@@ -27,7 +27,7 @@ namespace TygaSoft.SqlServerDAL
             parms[1].Value = model.RoleName;
             parms[2].Value = model.RoleName.ToLower();
 
-            return SqlHelper.ExecuteNonQuery(SqlHelper.TygaAspnetDbConnString, CommandType.Text, cmdText, parms);
+            return SqlHelper.ExecuteNonQuery(SqlHelper.AspnetDbConnString, CommandType.Text, cmdText, parms);
         }
 
         public List<RoleInfo> GetList()
@@ -36,7 +36,7 @@ namespace TygaSoft.SqlServerDAL
 
             List<RoleInfo> list = new List<RoleInfo>();
 
-            using (SqlDataReader reader = SqlHelper.ExecuteReader(SqlHelper.TygaAspnetDbConnString, CommandType.Text, cmdText))
+            using (SqlDataReader reader = SqlHelper.ExecuteReader(SqlHelper.AspnetDbConnString, CommandType.Text, cmdText))
             {
                 if (reader != null && reader.HasRows)
                 {

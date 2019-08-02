@@ -59,7 +59,7 @@ style="width:380px;height:130px; padding:10px;">
         Add: function () {
             $("#hId").val("");
             $("#txtRolename").val("");
-            currFun.Url = "/ScriptServices/AdminService.asmx/SaveRole";
+            currFun.Url = "/House/ScriptServices/AdminService.asmx/SaveRole";
             $('#dlg').dialog({ title: '新建角色' });
             $('#dlg').dialog('open');
         },
@@ -71,7 +71,7 @@ style="width:380px;height:130px; padding:10px;">
             }
 
             $('#dlg').dialog({ title: '编辑角色' });
-            currFun.Url = "/ScriptServices/AdminService.asmx/SaveRole";
+            currFun.Url = "/House/ScriptServices/AdminService.asmx/SaveRole";
             $("#hId").val(cbl[0].f0);
             $("#txtRolename").val(cbl[0].f1);
             $('#dlg').dialog('open');

@@ -37,7 +37,7 @@ var SysEnum = {
         });
     },
     Add: function () {
-        SysEnum.Url = "/ScriptServices/AdminService.asmx/SaveSysEnum";
+        SysEnum.Url = "/House/ScriptServices/AdminService.asmx/SaveSysEnum";
         var t = $("#treeCt");
         var node = t.tree('getSelected');
         if (!node) {
@@ -49,7 +49,7 @@ var SysEnum = {
         dlgFun.Add(node);
     },
     Edit: function () {
-        SysEnum.Url = "/ScriptServices/AdminService.asmx/SaveSysEnum";
+        SysEnum.Url = "/House/ScriptServices/AdminService.asmx/SaveSysEnum";
         var t = $("#treeCt");
         var node = t.tree('getSelected');
         if (!node) {

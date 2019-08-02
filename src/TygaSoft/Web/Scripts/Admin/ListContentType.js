@@ -37,7 +37,7 @@ var ListContentType = {
         });
     },
     Add: function () {
-        this.Url = "/ScriptServices/AdminService.asmx/SaveContentType";
+        this.Url = "/House/ScriptServices/AdminService.asmx/SaveContentType";
         var t = $("#treeCt");
         var node = t.tree('getSelected');
         if (!node) {
@@ -49,7 +49,7 @@ var ListContentType = {
         dlgFun.Add(node);
     },
     Edit: function () {
-        this.Url = "/ScriptServices/AdminService.asmx/SaveContentType";
+        this.Url = "/House/ScriptServices/AdminService.asmx/SaveContentType";
         var t = $("#treeCt");
         var node = t.tree('getSelected');
         if (!node) {

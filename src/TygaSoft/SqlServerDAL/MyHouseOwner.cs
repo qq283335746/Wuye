@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 using TygaSoft.IDAL;
 using TygaSoft.Model;
 using TygaSoft.DBUtility;
+using TygaSoft.SysHelper;
 
 namespace TygaSoft.SqlServerDAL
 {
@@ -44,8 +45,6 @@ namespace TygaSoft.SqlServerDAL
 
         public HouseOwnerInfo GetModelByJoin(object Id)
         {
-            //left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = ho.UserId
-
             HouseOwnerInfo model = null;
 
             string cmdText = @"select top 1 ho.Id,ho.HouseOwnerName,ho.MobilePhone,ho.TelPhone,ho.PropertyCompanyId,ho.ResidenceCommunityId,ho.ResidentialBuildingId,ho.ResidentialUnitId,ho.HouseId,ho.LastUpdatedDate,
@@ -92,7 +91,7 @@ namespace TygaSoft.SqlServerDAL
 
         public List<HouseOwnerInfo> GetListByJoin(int pageIndex, int pageSize, out int totalRecords, string sqlWhere, params SqlParameter[] cmdParms)
         {
-            string cmdText = @"select count(*)
+            string cmdText = string.Format(@"select count(*)
                              from HouseOwner ho
                              left join PropertyCompany pc on ho.PropertyCompanyId = pc.Id 
                              left join ResidenceCommunity rc on ho.ResidenceCommunityId = rc.Id
@@ -100,15 +99,15 @@ namespace TygaSoft.SqlServerDAL
                              left join ResidentialUnit ru on ho.ResidentialUnitId = ru.Id
                              left join House h on ho.HouseId = h.Id
                              left join UserHouseOwner uho on uho.HouseOwnerId = ho.Id
-                             left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = uho.UserId
-                             ";
+                             left join {0}aspnet_Users u on u.UserId = uho.UserId
+                             ", ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += " where 1=1 " + sqlWhere;
             totalRecords = (int)SqlHelper.ExecuteScalar(SqlHelper.SqlProviderConnString, CommandType.Text, cmdText, cmdParms);
 
             int startIndex = (pageIndex - 1) * pageSize + 1;
             int endIndex = pageIndex * pageSize;
 
-            cmdText = @"select * from(select row_number() over(order by ho.LastUpdatedDate desc) as RowNumber,
+            cmdText = string.Format(@"select * from(select row_number() over(order by ho.LastUpdatedDate desc) as RowNumber,
 			          ho.Id,ho.HouseOwnerName,ho.MobilePhone,ho.TelPhone,ho.PropertyCompanyId,ho.ResidenceCommunityId,ho.ResidentialBuildingId,ho.ResidentialUnitId,ho.HouseId,ho.LastUpdatedDate,
                       pc.CompanyName,rc.CommunityName,rb.BuildingCode,ru.UnitCode,h.HouseCode,u.UserName,uho.Password
 					  from HouseOwner ho
@@ -118,8 +117,8 @@ namespace TygaSoft.SqlServerDAL
                       left join ResidentialUnit ru on ho.ResidentialUnitId = ru.Id
                       left join House h on ho.HouseId = h.Id
                       left join UserHouseOwner uho on uho.HouseOwnerId = ho.Id
-                      left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = uho.UserId
-                      ";
+                      left join {0}aspnet_Users u on u.UserId = uho.UserId
+                      ", ConfigHelper.AspnetDbDbo);
 
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += "where 1=1 " + sqlWhere;
             cmdText += ")as objTable where RowNumber between " + startIndex + " and " + endIndex + " ";
@@ -161,7 +160,7 @@ namespace TygaSoft.SqlServerDAL
 
         public List<HouseOwnerInfo> GetListByJoin(int pageIndex, int pageSize, out int totalRecords, string sqlWhere, string orderBy, params SqlParameter[] cmdParms)
         {
-            string cmdText = @"select count(*)
+            string cmdText = string.Format(@"select count(*)
                              from HouseOwner ho
                              left join PropertyCompany pc on ho.PropertyCompanyId = pc.Id 
                              left join ResidenceCommunity rc on ho.ResidenceCommunityId = rc.Id
@@ -169,8 +168,8 @@ namespace TygaSoft.SqlServerDAL
                              left join ResidentialUnit ru on ho.ResidentialUnitId = ru.Id
                              left join House h on ho.HouseId = h.Id
                              left join UserHouseOwner uho on uho.HouseOwnerId = ho.Id
-                             left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = uho.UserId
-                             ";
+                             left join {0}aspnet_Users u on u.UserId = uho.UserId
+                             ", ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += " where 1=1 " + sqlWhere;
             totalRecords = (int)SqlHelper.ExecuteScalar(SqlHelper.SqlProviderConnString, CommandType.Text, cmdText, cmdParms);
 
@@ -179,7 +178,7 @@ namespace TygaSoft.SqlServerDAL
 
             if (string.IsNullOrWhiteSpace(orderBy)) orderBy = "ho.LastUpdatedDate";
             cmdText = @"select * from(select row_number() over(order by {0} desc) as RowNumber,
-			          ho.Id,ho.HouseOwnerName,ho.MobilePhone,ho.TelPhone,ho.PropertyCompanyId,ho.ResidenceCommunityId,ho.ResidentialBuildingId,ho.ResidentialUnitId,ho.HouseId,ho.LastUpdatedDate,
+        ho.Id,ho.HouseOwnerName,ho.MobilePhone,ho.TelPhone,ho.PropertyCompanyId,ho.ResidenceCommunityId,ho.ResidentialBuildingId,ho.ResidentialUnitId,ho.HouseId,ho.LastUpdatedDate,
                       pc.CompanyName,rc.CommunityName,rb.BuildingCode,ru.UnitCode,h.HouseCode,u.UserName,uho.Password
 					  from HouseOwner ho
                       left join PropertyCompany pc on ho.PropertyCompanyId = pc.Id 
@@ -188,9 +187,9 @@ namespace TygaSoft.SqlServerDAL
                       left join ResidentialUnit ru on ho.ResidentialUnitId = ru.Id
                       left join House h on ho.HouseId = h.Id
                       left join UserHouseOwner uho on uho.HouseOwnerId = ho.Id
-                      left join CollectLifeAspnetDb.dbo.aspnet_Users u on u.UserId = uho.UserId
+                      left join {1}aspnet_Users u on u.UserId = uho.UserId
                       ";
-            cmdText = string.Format(cmdText, orderBy);
+            cmdText = string.Format(cmdText, orderBy, ConfigHelper.AspnetDbDbo);
             if (!string.IsNullOrEmpty(sqlWhere)) cmdText += "where 1=1 " + sqlWhere;
             cmdText += ")as objTable where RowNumber between " + startIndex + " and " + endIndex + " ";
 
