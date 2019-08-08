@@ -37,6 +37,8 @@ https://visualstudio.microsoft.com/zh-hans/downloads/
 
 智能物业管理系统截图如下：
 
-![image](https://github.com/qq283335746/My/blob/master/MyImages/House/house001.png)
-![image](https://github.com/qq283335746/My/blob/master/MyImages/House/house002.png)
-![image](https://github.com/qq283335746/My/blob/master/MyImages/House/house003.png)
+![image](docs/Images/wuye001.png)
+
+![image](docs/Images/wuye002.png)
+
+![image](docs/Images/wuye003.png)

@@ -177,7 +177,7 @@ namespace TygaSoft.SqlServerDAL
                         model.FileName = reader.GetString(2);
                         model.FileSize = reader.GetInt32(3);
                         model.FileExtension = reader.GetString(4);
-                        model.FileDirectory = reader.GetString(5);
+                        model.FileDirectory =  reader.GetString(5);
                         model.RandomFolder = reader.GetString(6);
                         model.LastUpdatedDate = reader.GetDateTime(7);
 

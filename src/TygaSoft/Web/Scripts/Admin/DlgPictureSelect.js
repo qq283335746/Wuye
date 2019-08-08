@@ -66,7 +66,7 @@ var DlgPictureSelect = {
             height: h,
             closed: false,
             modal: true,
-            href: '/House/t/ypicture.html?dlgId=dlgUploadPicture&funName=' + tableName + '&isMutil=' + isMutil + '&dlgParentId=' + dlgParentId + '&callBack=' + callBack + '&submitUrl=/h/tupload.html',
+            href: '/House/t/ypicture.html?dlgId=dlgUploadPicture&funName=' + tableName + '&isMutil=' + isMutil + '&dlgParentId=' + dlgParentId + '&callBack=' + callBack + '&submitUrl=/House/h/tupload.html',
             buttons: [{
                 id: 'btnUploadPicture', text: '上 传', iconCls: 'icon-ok',
                 handler: function () {

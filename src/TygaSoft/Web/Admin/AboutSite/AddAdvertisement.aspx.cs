@@ -76,7 +76,7 @@ namespace TygaSoft.Web.Admin.AboutSite
                                 sMPicture = PictureUrlHelper.GetUrl(dir, rndCode, fileEx, picType, platform);
                             }
 
-                            imgContentPictureHtml += string.Format(currTemplateText, sMPicture, dr["ContentPictureId"], dr["ActionTypeId"], dr["Url"], dr["Sort"], dr["IsDisable"], dr["Id"]);
+                            imgContentPictureHtml += string.Format(currTemplateText, ConfigHelper.ApplicationName + sMPicture, dr["ContentPictureId"], dr["ActionTypeId"], dr["Url"], dr["Sort"], dr["IsDisable"], dr["Id"]);
                         }
 
                         ltrImgItem.Text = imgContentPictureHtml;

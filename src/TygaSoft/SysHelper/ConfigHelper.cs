@@ -13,7 +13,9 @@ namespace TygaSoft.SysHelper
             return ConfigurationManager.AppSettings[key];
         }
 
+        public const string ApplicationName = "/House";
         public const string AspnetDbDbo = "TygaSoftAspnetDb.dbo.";
         public const string WuyeDbDbo = "WuyeDb.dbo.";
+
     }
 }

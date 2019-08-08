@@ -29,13 +29,13 @@
             <ItemTemplate>
                 <tr>
                     <td><%#Eval("Id")%></td>
-                    <td><img src='<%#string.Format("{0}{1}/PC/{1}_2{2}",Eval("FileDirectory"),Eval("RandomFolder"),Eval("FileExtension")) %>' alt="" width="50px" height="50px" /> </td>
+                    <td><img src='/house<%#string.Format("{0}{1}/PC/{1}_2{2}",Eval("FileDirectory"),Eval("RandomFolder"),Eval("FileExtension")) %>' alt="" width="50px" height="50px" /> </td>
                     <td><%#Eval("FileName")%></td>
                     <td><%#Eval("FileSize")%></td>
                     <td><%#Eval("FileDirectory")%></td>
                     <td><%#Eval("RandomFolder")%></td>
                     <td><%#((DateTime)Eval("LastUpdatedDate")).ToString("yyyy-MM-dd HH:mm")%></td>
-                    <td><a href="javascript:void(0)" code='<%#string.Format("{0}{1}",Eval("FileDirectory"),Eval("FileName")) %>' onclick='ListPictureAdvertisement.ViewPic(this)'>查看原图</a> </td>
+                    <td><a href="javascript:void(0)" code='/house<%#string.Format("{0}{1}",Eval("FileDirectory"),Eval("FileName")) %>' onclick='ListPictureAdvertisement.ViewPic(this)'>查看原图</a> </td>
                 
                 </tr>
             </ItemTemplate>

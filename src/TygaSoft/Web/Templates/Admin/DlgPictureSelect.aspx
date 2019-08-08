@@ -13,7 +13,7 @@
                 <asp:Repeater ID="rpData" runat="server">
                     <ItemTemplate>
                         <div class="row_col w110">
-                            <img src='<%#string.Format("{0}{1}/PC/{1}_1{2}",Eval("FileDirectory"),Eval("RandomFolder"),Eval("FileExtension")) %>' alt="图片" width="100" height="90" code='<%#Eval("Id")%>' />
+                            <img src='/house<%#string.Format("{0}{1}/PC/{1}_1{2}",Eval("FileDirectory"),Eval("RandomFolder"),Eval("FileExtension")) %>' alt="图片" width="100" height="90" code='<%#Eval("Id")%>' />
                         </div>
                     </ItemTemplate>
                 </asp:Repeater>
