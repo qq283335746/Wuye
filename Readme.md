@@ -1,6 +1,6 @@
 ﻿智能物业管理系统（property management）
 
-假如您是一家物业企业，您的小区楼房分布在各个省市区，记住这么多让人头都大；您的业主千挑百剔或遇上各种烦心问题时一天到晚打您办公室的电话，让您应接不暇，更烦人的是电话里大吵大骂娘的，让人恶心至极。。。OK，智能物业管理系统来了，为您解决问题，让您更顺心！智能物业管理系统，让它为您更好到管理您每个省市区的N个楼房，N个房间的每个业主。通过互联网+物业，物业公司随时随地可以发布公告、通知，让各个省市区的业主们随时了解您的动态，更让他们24小时内有门路上访到物业管理处，拿起他们的手机就可以反馈问题，跟踪他们问题的处理进度。
+假如您是一家物业企业，您的小区楼房分布在各个省市区，记住这么多让人头都大；您的业主千挑百剔或遇上各种烦心问题时一天到晚打您办公室的电话，让您应接不暇，更烦人的是电话里大吵大骂娘的，让人恶心至极。。。OK，智能物业管理系统来了，为您解决问题，让您更顺心！智能物业管理系统，让它为您更好到管理您每个省市区的N个楼房，N个房间的每个业主以及业主投诉问题等等。通过互联网+物业，物业公司随时随地可以发布公告、通知，让各个省市区的业主们随时了解您的动态，更让他们24小时内有门路上访到物业管理处，拿起他们的手机就可以反馈问题，跟踪他们问题的处理进度。
 
 安装与部署：
 
@@ -42,3 +42,35 @@ https://visualstudio.microsoft.com/zh-hans/downloads/
 ![image](docs/Images/wuye002.png)
 
 ![image](docs/Images/wuye003.png)
+
+![image](docs/Images/wuye004.png)
+
+![image](docs/Images/wuye005.png)
+
+![image](docs/Images/wuye006.png)
+
+![image](docs/Images/wuye007.png)
+
+![image](docs/Images/wuye008.png)
+
+![image](docs/Images/wuye009.png)
+
+![image](docs/Images/wuye010.png)
+
+![image](docs/Images/wuye011.png)
+
+![image](docs/Images/wuye012.png)
+
+![image](docs/Images/wuye013.png)
+
+![image](docs/Images/wuye014.png)
+
+![image](docs/Images/wuye015.png)
+
+![image](docs/Images/wuye016.png)
+
+![image](docs/Images/wuye017.png)
+
+![image](docs/Images/wuye018.png)
+
+![image](docs/Images/wuye019.png)
